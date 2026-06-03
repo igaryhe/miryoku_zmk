@@ -271,6 +271,11 @@ U_NP,              U_NP,              &kp ESC,           &kp SPACE,         &kp 
 &kp Y,             &kp X,             &kp C,             &kp V,             &kp B,             &kp N,             &kp M,             &kp COMMA,         &kp DOT,           &kp SLASH,         \
 U_NP,              U_NP,              &kp ESC,           &kp SPACE,         &kp TAB,           &kp RET,           &kp BSPC,          &kp DEL,           U_NP,              U_NP
 
+#define MIRYOKU_ALTERNATIVES_TAP_GAMING \
+&kp TAB,           &kp Q,             &kp W,             &kp E,             &kp R,             &kp T,             &kp N7,            &kp N8,            &kp N9,            &kp UP,            \
+&kp LCTRL,         &kp A,             &kp S,             &kp D,             &kp F,             &kp G,             &kp N4,            &kp N5,            &kp N6,            &kp DOWN,          \
+&kp LSHIFT,        &kp Z,             &kp X,             &kp C,             &kp V,             &kp B,             &kp N1,            &kp N2,            &kp N3,            &u_to_U_BASE,      \
+U_NP,              U_NP,              &kp ESC,           &kp SPACE,         &kp LALT,          &kp RET,           &kp BSPC,          &kp N0,            U_NP,              U_NP
 
 #define MIRYOKU_ALTERNATIVES_NAV_INVERTEDT_FLIP \
 &kp PG_UP,         &kp HOME,          &kp UP,            &kp END,           &kp INS,           U_NA,              &u_to_U_BASE,      &u_to_U_EXTRA,     &u_to_U_TAP,       U_BOOT,            \
